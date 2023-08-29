@@ -1,0 +1,14 @@
+C:\Users\WN-049 U\Documents\AlphaApp\bin\Debug\net7.0\AlphaApp.exe
+C:\Users\WN-049 U\Documents\AlphaApp\bin\Debug\net7.0\AlphaApp.deps.json
+C:\Users\WN-049 U\Documents\AlphaApp\bin\Debug\net7.0\AlphaApp.runtimeconfig.json
+C:\Users\WN-049 U\Documents\AlphaApp\bin\Debug\net7.0\AlphaApp.dll
+C:\Users\WN-049 U\Documents\AlphaApp\bin\Debug\net7.0\AlphaApp.pdb
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\AlphaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\AlphaApp.AssemblyInfoInputs.cache
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\AlphaApp.AssemblyInfo.cs
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\AlphaApp.csproj.CoreCompileInputs.cache
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\AlphaApp.dll
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\refint\AlphaApp.dll
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\AlphaApp.pdb
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\AlphaApp.genruntimeconfig.cache
+C:\Users\WN-049 U\Documents\AlphaApp\obj\Debug\net7.0\ref\AlphaApp.dll
